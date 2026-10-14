@@ -4,6 +4,7 @@
  */
 
 import React, { useState, useEffect } from 'react';
+import conferenceImg from './conference.jpeg';
 
 const simulationBank = {
   es: {
@@ -234,10 +235,9 @@ export default function App() {
             <div className="lg:col-span-5 relative mt-8 lg:mt-0">
               <div className="w-full h-full min-h-[460px] lg:min-h-[580px] bg-[#f4f4f2] rounded-xl overflow-hidden relative shadow-lg group border border-[#e5e3e1]">
                 <img 
-                  src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=1000" 
-                  alt="Keynote Speaker in architectural auditorium"
-                  className="w-full h-full object-cover object-center group-hover:scale-[1.02] transition-transform duration-700 filter grayscale contrast-125"
-                  referrerPolicy="no-referrer"
+                  src={conferenceImg} 
+                  alt="LingoLive Conferencia y Traducción Simultánea"
+                  className="w-full h-full object-cover object-center group-hover:scale-[1.02] transition-transform duration-700"
                 />
                 
                 {/* Live Telemetry Floating Plaque on Portrait */}
