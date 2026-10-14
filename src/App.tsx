@@ -141,10 +141,10 @@ export default function App() {
         <div className="h-20 w-full px-6 md:px-16 flex items-center justify-between gap-6 max-w-7xl mx-auto">
           <div className="flex items-center gap-2.5">
             <div className="w-9 h-9 rounded-full bg-[#bc0421] flex items-center justify-center shrink-0 shadow-sm">
-              <span className="font-['Bodoni_Moda'] text-[18px] text-[#ffffff] italic leading-none select-none">Ll</span>
+              <span className="font-['Domine'] text-[18px] text-[#ffffff] italic leading-none select-none">Ll</span>
             </div>
             <div className="flex items-baseline gap-1">
-              <span className="font-['Bodoni_Moda'] text-[22px] tracking-tight font-normal text-[#1a1c1b]">LingoLive</span>
+              <span className="font-['Domine'] text-[22px] tracking-tight font-normal text-[#1a1c1b]">LingoLive</span>
               <span className="text-[10px] tracking-[0.12em] font-bold text-[#5c403e] uppercase hidden sm:inline">/ TECH</span>
             </div>
           </div>
@@ -184,7 +184,7 @@ export default function App() {
                 {/* Monogram Badge */}
                 <div className="mb-8 flex items-center gap-4">
                   <div className="w-14 h-14 rounded-full bg-[#bc0421] flex items-center justify-center shrink-0 shadow-md">
-                    <span className="font-['Bodoni_Moda'] text-[24px] text-[#ffffff] italic font-normal select-none">Ll</span>
+                    <span className="font-['Domine'] text-[24px] text-[#ffffff] italic font-normal select-none">Ll</span>
                   </div>
                   <div className="flex flex-col">
                     <span className="text-[10px] tracking-[0.12em] font-bold text-[#bc0421] uppercase">LingoLive Protocol</span>
@@ -193,7 +193,7 @@ export default function App() {
                 </div>
 
                 {/* Editorial Lead Statement */}
-                <h1 className="font-['Bodoni_Moda'] text-[40px] md:text-[56px] lg:text-[72px] leading-[1.08] tracking-[-0.03em] text-[#1a1c1b] mb-6 font-normal">
+                <h1 className="font-['Domine'] text-[40px] md:text-[56px] lg:text-[72px] leading-[1.08] tracking-[-0.03em] text-[#1a1c1b] mb-6 font-normal">
                   La solución inteligente de <span className="text-[#bc0421] italic">traducción simultánea</span> para eventos bilingües.
                 </h1>
 
@@ -262,28 +262,28 @@ export default function App() {
           {/* Editorial Key Metrics Bar */}
           <div className="mt-16 pt-8 grid grid-cols-2 lg:grid-cols-4 gap-6 bg-[#ffffff] p-6 lg:p-8 rounded-xl shadow-sm border border-[#e5e3e1]">
             <div className="flex flex-col">
-              <span className="font-['Bodoni_Moda'] text-[40px] lg:text-[48px] text-[#1a1c1b] font-normal leading-none mb-1">
+              <span className="font-['Domine'] text-[40px] lg:text-[48px] text-[#1a1c1b] font-normal leading-none mb-1">
                 &lt;200<span className="text-[#bc0421] text-[20px] font-semibold">ms</span>
               </span>
               <span className="text-[10px] uppercase tracking-[0.12em] text-[#5f5e5e] font-bold">Latencia Ultra Baja</span>
               <span className="text-[13px] text-[#5c403e] mt-1">Streaming WSS ininterrumpido</span>
             </div>
             <div className="flex flex-col">
-              <span className="font-['Bodoni_Moda'] text-[40px] lg:text-[48px] text-[#1a1c1b] font-normal leading-none mb-1">
+              <span className="font-['Domine'] text-[40px] lg:text-[48px] text-[#1a1c1b] font-normal leading-none mb-1">
                 0<span className="text-[#bc0421] text-[20px] font-semibold">Apps</span>
               </span>
               <span className="text-[10px] uppercase tracking-[0.12em] text-[#5f5e5e] font-bold">Acceso Directo BYOD</span>
               <span className="text-[13px] text-[#5c403e] mt-1">Escaneo con cámara nativa</span>
             </div>
             <div className="flex flex-col">
-              <span className="font-['Bodoni_Moda'] text-[40px] lg:text-[48px] text-[#1a1c1b] font-normal leading-none mb-1">
+              <span className="font-['Domine'] text-[40px] lg:text-[48px] text-[#1a1c1b] font-normal leading-none mb-1">
                 100<span className="text-[#bc0421] text-[20px] font-semibold">%</span>
               </span>
               <span className="text-[10px] uppercase tracking-[0.12em] text-[#5f5e5e] font-bold">Cifrado Corporativo</span>
               <span className="text-[13px] text-[#5c403e] mt-1">Zero Data Retention a medida</span>
             </div>
             <div className="flex flex-col">
-              <span className="font-['Bodoni_Moda'] text-[40px] lg:text-[48px] text-[#1a1c1b] font-normal leading-none mb-1">
+              <span className="font-['Domine'] text-[40px] lg:text-[48px] text-[#1a1c1b] font-normal leading-none mb-1">
                 1<span className="text-[#bc0421] text-[20px] font-semibold">Click</span>
               </span>
               <span className="text-[10px] uppercase tracking-[0.12em] text-[#5f5e5e] font-bold">Minutas &amp; Actas</span>
@@ -299,7 +299,7 @@ export default function App() {
               <span className="w-2 h-2 rounded-full bg-[#bc0421]"></span>
               <span className="text-[10px] uppercase tracking-[0.12em] text-[#1a1c1b] font-bold">Simulador Interactivo en Tiempo Real</span>
             </div>
-            <h2 className="font-['Bodoni_Moda'] text-[32px] md:text-[48px] text-[#1a1c1b] font-normal">
+            <h2 className="font-['Domine'] text-[32px] md:text-[48px] text-[#1a1c1b] font-normal">
               Experimente la precisión simultánea de <span className="italic text-[#bc0421]">LingoLive</span>
             </h2>
             <p className="text-[15px] text-[#5f5e5e] max-w-2xl mt-2 leading-relaxed">
@@ -386,7 +386,7 @@ export default function App() {
                     <span className="text-[10px] tracking-[0.12em] text-[#bc0421] uppercase font-bold">Latencia: {jitterLatency}ms</span>
                   </div>
                   <div className="bg-[#2f3130] p-6 rounded-lg min-h-[110px] flex items-center shadow-inner">
-                    <p className="font-['Bodoni_Moda'] text-[24px] text-[#f1f1ef] font-normal leading-snug">
+                    <p className="font-['Domine'] text-[24px] text-[#f1f1ef] font-normal leading-snug">
                       "{currentItem.trans}"
                     </p>
                   </div>
@@ -471,7 +471,7 @@ export default function App() {
           <div className="max-w-6xl mx-auto flex flex-col md:flex-row md:items-end justify-between mb-12">
             <div className="max-w-2xl">
               <span className="text-[10px] uppercase tracking-[0.12em] text-[#bc0421] font-bold block mb-2">Capacidades del Sistema</span>
-              <h2 className="font-['Bodoni_Moda'] text-[36px] md:text-[48px] text-[#1a1c1b] font-normal leading-tight">
+              <h2 className="font-['Domine'] text-[36px] md:text-[48px] text-[#1a1c1b] font-normal leading-tight">
                 Diseñado exclusivamente para la dinámica de <span className="italic text-[#bc0421]">reuniones bilingües</span>
               </h2>
             </div>
@@ -489,7 +489,7 @@ export default function App() {
                 <div className="w-12 h-12 rounded-full bg-[#bc0421]/10 text-[#bc0421] flex items-center justify-center mb-6 group-hover:bg-[#bc0421] group-hover:text-[#ffffff] transition-colors">
                   <span className="material-symbols-outlined text-[24px]">present_to_all</span>
                 </div>
-                <h3 className="font-['Bodoni_Moda'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Proyección en Escenario</h3>
+                <h3 className="font-['Domine'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Proyección en Escenario</h3>
                 <p className="text-[15px] text-[#5f5e5e] leading-relaxed">
                   Ideal para auditorios y videowalls. Proyecta subtítulos en alto contraste, ajustables en tamaño de fuente y con modo bilingüe simultáneo para que toda la sala siga el hilo sin perderse.
                 </p>
@@ -505,7 +505,7 @@ export default function App() {
                 <div className="w-12 h-12 rounded-full bg-[#bc0421]/10 text-[#bc0421] flex items-center justify-center mb-6 group-hover:bg-[#bc0421] group-hover:text-[#ffffff] transition-colors">
                   <span className="material-symbols-outlined text-[24px]">smartphone</span>
                 </div>
-                <h3 className="font-['Bodoni_Moda'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Utilización Celular (BYOD)</h3>
+                <h3 className="font-['Domine'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Utilización Celular (BYOD)</h3>
                 <p className="text-[15px] text-[#5f5e5e] leading-relaxed">
                   Cero fricción de adopción. Los asistentes solo escanean un código QR y acceden a una web ultra ligera. Cada usuario elige si desea leer los subtítulos o escuchar la traducción con sus auriculares.
                 </p>
@@ -521,7 +521,7 @@ export default function App() {
                 <div className="w-12 h-12 rounded-full bg-[#bc0421]/10 text-[#bc0421] flex items-center justify-center mb-6 group-hover:bg-[#bc0421] group-hover:text-[#ffffff] transition-colors">
                   <span className="material-symbols-outlined text-[24px]">bolt</span>
                 </div>
-                <h3 className="font-['Bodoni_Moda'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Ultra Baja Latencia (&lt;200ms)</h3>
+                <h3 className="font-['Domine'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Ultra Baja Latencia (&lt;200ms)</h3>
                 <p className="text-[15px] text-[#5f5e5e] leading-relaxed">
                   Streaming bidireccional continuo por WebSockets. El motor comprende el contexto fonético y sintáctico mientras la persona habla, reduciendo el desfase a un nivel prácticamente imperceptible.
                 </p>
@@ -537,7 +537,7 @@ export default function App() {
                 <div className="w-12 h-12 rounded-full bg-[#bc0421]/10 text-[#bc0421] flex items-center justify-center mb-6 group-hover:bg-[#bc0421] group-hover:text-[#ffffff] transition-colors">
                   <span className="material-symbols-outlined text-[24px]">shield_lock</span>
                 </div>
-                <h3 className="font-['Bodoni_Moda'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Entorno Seguro &amp; Privacidad</h3>
+                <h3 className="font-['Domine'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Entorno Seguro &amp; Privacidad</h3>
                 <p className="text-[15px] text-[#5f5e5e] leading-relaxed">
                   Cifrado TLS/WSS de extremo a extremo, tokens efímeros de acceso para reuniones directivas y políticas de <em>Zero Data Retention</em> configurable para no almacenar audios confidenciales.
                 </p>
@@ -553,7 +553,7 @@ export default function App() {
                 <div className="w-12 h-12 rounded-full bg-[#bc0421]/10 text-[#bc0421] flex items-center justify-center mb-6 group-hover:bg-[#bc0421] group-hover:text-[#ffffff] transition-colors">
                   <span className="material-symbols-outlined text-[24px]">summarize</span>
                 </div>
-                <h3 className="font-['Bodoni_Moda'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Minutas &amp; Actas en 1-Click</h3>
+                <h3 className="font-['Domine'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Minutas &amp; Actas en 1-Click</h3>
                 <p className="text-[15px] text-[#5f5e5e] leading-relaxed">
                   Al terminar la reunión, descarga de inmediato la transcripción original con marcas de tiempo, las traducciones y un resumen ejecutivo estructurado con los puntos clave y acuerdos adoptados.
                 </p>
@@ -569,7 +569,7 @@ export default function App() {
                 <div className="w-12 h-12 rounded-full bg-[#bc0421]/10 text-[#bc0421] flex items-center justify-center mb-6 group-hover:bg-[#bc0421] group-hover:text-[#ffffff] transition-colors">
                   <span className="material-symbols-outlined text-[24px]">forum</span>
                 </div>
-                <h3 className="font-['Bodoni_Moda'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Q&amp;A Bilingüe en Doble Vía</h3>
+                <h3 className="font-['Domine'] text-[24px] text-[#1a1c1b] mb-3 font-normal">Q&amp;A Bilingüe en Doble Vía</h3>
                 <p className="text-[15px] text-[#5f5e5e] leading-relaxed">
                   Los asistentes pueden plantear preguntas en su lengua materna desde su teléfono móvil o micrófono de sala, y el expositor las lee o escucha traducidas al instante. Diálogo natural y fluido.
                 </p>
@@ -587,7 +587,7 @@ export default function App() {
           <div className="max-w-6xl mx-auto">
             <div className="mb-12 text-center max-w-2xl mx-auto">
               <span className="text-[10px] uppercase tracking-[0.12em] text-[#bc0421] font-bold">Despliegue Rápido</span>
-              <h2 className="font-['Bodoni_Moda'] text-[36px] md:text-[48px] text-[#1a1c1b] font-normal mt-1">
+              <h2 className="font-['Domine'] text-[36px] md:text-[48px] text-[#1a1c1b] font-normal mt-1">
                 Listo para usar en <span className="italic text-[#bc0421]">3 sencillos pasos</span>
               </h2>
               <p className="text-[15px] text-[#5f5e5e] mt-2">Sin técnicos dedicados, sin fletes de cabinas físicas.</p>
@@ -597,10 +597,10 @@ export default function App() {
               {/* Step 1 */}
               <div className="bg-[#ffffff] p-8 rounded-xl shadow-sm flex flex-col justify-between border border-[#e5e3e1]">
                 <div>
-                  <div className="w-12 h-12 rounded-full bg-[#bc0421] text-[#ffffff] flex items-center justify-center mb-6 font-['Bodoni_Moda'] text-[24px] italic">
+                  <div className="w-12 h-12 rounded-full bg-[#bc0421] text-[#ffffff] flex items-center justify-center mb-6 font-['Domine'] text-[24px] italic">
                     1
                   </div>
-                  <h4 className="font-['Bodoni_Moda'] text-[24px] text-[#1a1c1b] font-normal mb-3">Conecta el audio</h4>
+                  <h4 className="font-['Domine'] text-[24px] text-[#1a1c1b] font-normal mb-3">Conecta el audio</h4>
                   <p className="text-[15px] text-[#5f5e5e] leading-relaxed">
                     Enlaza la consola de audio de tu evento o el micrófono del expositor a través de nuestra interfaz web o app de transmisión dedicada.
                   </p>
@@ -613,10 +613,10 @@ export default function App() {
               {/* Step 2 */}
               <div className="bg-[#ffffff] p-8 rounded-xl shadow-sm flex flex-col justify-between border border-[#e5e3e1]">
                 <div>
-                  <div className="w-12 h-12 rounded-full bg-[#bc0421] text-[#ffffff] flex items-center justify-center mb-6 font-['Bodoni_Moda'] text-[24px] italic">
+                  <div className="w-12 h-12 rounded-full bg-[#bc0421] text-[#ffffff] flex items-center justify-center mb-6 font-['Domine'] text-[24px] italic">
                     2
                   </div>
-                  <h4 className="font-['Bodoni_Moda'] text-[24px] text-[#1a1c1b] font-normal mb-3">Proyecta y comparte el QR</h4>
+                  <h4 className="font-['Domine'] text-[24px] text-[#1a1c1b] font-normal mb-3">Proyecta y comparte el QR</h4>
                   <p className="text-[15px] text-[#5f5e5e] leading-relaxed">
                     Abre la vista de escenario en la pantalla grande del salón y proyecta el código QR para que la audiencia ingrese directamente desde sus teléfonos.
                   </p>
@@ -629,10 +629,10 @@ export default function App() {
               {/* Step 3 */}
               <div className="bg-[#ffffff] p-8 rounded-xl shadow-sm flex flex-col justify-between border border-[#e5e3e1]">
                 <div>
-                  <div className="w-12 h-12 rounded-full bg-[#bc0421] text-[#ffffff] flex items-center justify-center mb-6 font-['Bodoni_Moda'] text-[24px] italic">
+                  <div className="w-12 h-12 rounded-full bg-[#bc0421] text-[#ffffff] flex items-center justify-center mb-6 font-['Domine'] text-[24px] italic">
                     3
                   </div>
-                  <h4 className="font-['Bodoni_Moda'] text-[24px] text-[#1a1c1b] font-normal mb-3">Habla y descarga minutas</h4>
+                  <h4 className="font-['Domine'] text-[24px] text-[#1a1c1b] font-normal mb-3">Habla y descarga minutas</h4>
                   <p className="text-[15px] text-[#5f5e5e] leading-relaxed">
                     LingoLive traduce con latencia mínima. Al finalizar, exporta el acta completa y la minuta ejecutiva en formato digital seguro.
                   </p>
@@ -650,7 +650,7 @@ export default function App() {
           <div className="max-w-5xl mx-auto">
             <div className="text-center max-w-2xl mx-auto mb-12">
               <span className="text-[10px] uppercase tracking-[0.12em] text-[#bc0421] font-bold">Eficiencia &amp; Logística</span>
-              <h2 className="font-['Bodoni_Moda'] text-[36px] md:text-[48px] text-[#1a1c1b] font-normal mt-1">
+              <h2 className="font-['Domine'] text-[36px] md:text-[48px] text-[#1a1c1b] font-normal mt-1">
                 LingoLive vs <span className="italic text-[#bc0421]">Cabinas Tradicionales</span>
               </h2>
               <p className="text-[15px] text-[#5f5e5e] mt-2">
@@ -732,14 +732,14 @@ export default function App() {
         <section className="w-full px-6 md:px-16 py-24 bg-[#f4f4f2] border-t border-[#e5e3e1]">
           <div className="max-w-4xl mx-auto bg-[#ffffff] p-8 md:p-16 rounded-xl shadow-md text-center flex flex-col items-center border border-[#e5e3e1]">
             <div className="w-14 h-14 rounded-full bg-[#bc0421] flex items-center justify-center mb-6 shadow-sm">
-              <span className="font-['Bodoni_Moda'] text-[24px] text-[#ffffff] italic font-normal select-none">Ll</span>
+              <span className="font-['Domine'] text-[24px] text-[#ffffff] italic font-normal select-none">Ll</span>
             </div>
             
             <span className="text-[10px] uppercase tracking-[0.12em] text-[#bc0421] font-bold mb-2">
               Cumbres, Directorios &amp; Conferencias
             </span>
             
-            <h2 className="font-['Bodoni_Moda'] text-[36px] md:text-[48px] text-[#1a1c1b] font-normal max-w-2xl leading-tight mb-4">
+            <h2 className="font-['Domine'] text-[36px] md:text-[48px] text-[#1a1c1b] font-normal max-w-2xl leading-tight mb-4">
               Haz que tu próxima conferencia hable <span className="italic text-[#bc0421]">todos los idiomas</span> sin barreras.
             </h2>
             
@@ -782,9 +782,9 @@ export default function App() {
             <div className="md:col-span-5 flex flex-col gap-4">
               <div className="flex items-center gap-3">
                 <div className="w-8 h-8 rounded-full bg-[#bc0421] flex items-center justify-center">
-                  <span className="font-['Bodoni_Moda'] text-[16px] text-[#ffffff] italic leading-none">Ll</span>
+                  <span className="font-['Domine'] text-[16px] text-[#ffffff] italic leading-none">Ll</span>
                 </div>
-                <span className="font-['Bodoni_Moda'] text-[20px] text-[#1a1c1b]">LingoLive</span>
+                <span className="font-['Domine'] text-[20px] text-[#1a1c1b]">LingoLive</span>
               </div>
               <p className="text-[15px] text-[#5c403e] max-w-md leading-relaxed">
                 Infraestructura lingüística simultánea de alta costura para conferencias de estado, corporaciones multinacionales y cumbres editoriales globales.
@@ -842,10 +842,10 @@ export default function App() {
             </button>
             <div className="flex items-center gap-3 mb-6">
               <div className="w-10 h-10 rounded-full bg-[#bc0421] flex items-center justify-center">
-                <span className="font-['Bodoni_Moda'] text-[18px] text-[#ffffff] italic font-normal">Ll</span>
+                <span className="font-['Domine'] text-[18px] text-[#ffffff] italic font-normal">Ll</span>
               </div>
               <div>
-                <h3 className="font-['Bodoni_Moda'] text-[24px] text-[#1a1c1b] font-normal">Agendar Demostración</h3>
+                <h3 className="font-['Domine'] text-[24px] text-[#1a1c1b] font-normal">Agendar Demostración</h3>
                 <p className="text-[13px] text-[#5f5e5e]">Coordinaremos una sesión en vivo adaptada a su evento.</p>
               </div>
             </div>
