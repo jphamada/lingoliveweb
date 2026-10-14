@@ -1,0 +1,6 @@
+{
+  "name": "LingoLive - Traducción Simultánea Inteligente",
+  "description": "La solución inteligente de traducción simultánea para eventos bilingües. Eliminamos cabinas costosas con subtítulos en pantalla gigante y BYOD móvil en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
